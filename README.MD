@@ -57,6 +57,7 @@ To avoid AWS charges:
 terraform destroy -var="bucket_name=your-bucket-name"
 
 ⭐ STAR Story
+
 Situation:
 I wanted to simulate a secure, observable cloud environment using Terraform and AWS.
 
